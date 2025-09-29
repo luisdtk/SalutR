@@ -6,13 +6,9 @@ Additionally, it helps users store important study materials, such as notes, doc
 # Features
 * Instant Setup: Get started in no time with an intuitive installation process.
 
-* Massive Plugin Library: Over 100 plugins designed to enhance server management, support programming, and encourage learning.
+* Massive Plugin Library: Designed to enhance server management, support programming, and encourage learning.
 
 * Minimal Resource Use: Despite offering so much, SalutR won’t slow down your server or client.
-
-* Cross-Version Compatibility: Whether you’re using the Stable, Canary, or PTB Discord builds, SalutR works smoothly across them all.
-
-* Customizable Interface: Personalize your Discord experience with themes, custom CSS, and a built-in editor for easy tweaking.
 
 * Privacy First: Say goodbye to tracking—SalutR ensures your activity stays private by blocking Discord's analytics and crash reports.
 
@@ -20,4 +16,4 @@ Additionally, it helps users store important study materials, such as notes, doc
 
 * Seamless Syncing: Sync your plugin settings across devices and platforms to keep everything consistent, no matter where you are.
 
-* Fun for Nerds: Perfect for tech lovers, programmers, and creators—featuring challenges, coding resources, and fun interactions.
+* Fun for Nerds: Perfect for tech lovers, programmers, coding resources, and fun interactions.
