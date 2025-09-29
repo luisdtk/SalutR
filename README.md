@@ -6,7 +6,7 @@ Additionally, it helps users store important study materials, such as notes, doc
 # Features
 * Instant Setup: Get started in no time with an intuitive installation process.
 
-* Massive Plugin Library: Designed to enhance server management, support programming, and encourage learning.
+* Massive Library: Designed to enhance support programming, and encourage learning.
 
 * Minimal Resource Use: Despite offering so much, SalutR won’t slow down your server or client.
 
