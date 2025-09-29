@@ -6,18 +6,18 @@ Additionally, it helps users store important study materials, such as notes, doc
 # Features
 * Instant Setup: Get started in no time with an intuitive installation process.
 
-Massive Plugin Library: Over 100 plugins designed to enhance server management, support programming, and encourage learning.
+* Massive Plugin Library: Over 100 plugins designed to enhance server management, support programming, and encourage learning.
 
-Minimal Resource Use: Despite offering so much, SalutR won’t slow down your server or client.
+* Minimal Resource Use: Despite offering so much, SalutR won’t slow down your server or client.
 
-Cross-Version Compatibility: Whether you’re using the Stable, Canary, or PTB Discord builds, SalutR works smoothly across them all.
+* Cross-Version Compatibility: Whether you’re using the Stable, Canary, or PTB Discord builds, SalutR works smoothly across them all.
 
-Customizable Interface: Personalize your Discord experience with themes, custom CSS, and a built-in editor for easy tweaking.
+* Customizable Interface: Personalize your Discord experience with themes, custom CSS, and a built-in editor for easy tweaking.
 
-Privacy First: Say goodbye to tracking—SalutR ensures your activity stays private by blocking Discord's analytics and crash reports.
+* Privacy First: Say goodbye to tracking—SalutR ensures your activity stays private by blocking Discord's analytics and crash reports.
 
-Rapid Updates: Any broken features or issues are fixed quickly, with regular updates that keep everything running smoothly.
+* Rapid Updates: Any broken features or issues are fixed quickly, with regular updates that keep everything running smoothly.
 
-Seamless Syncing: Sync your plugin settings across devices and platforms to keep everything consistent, no matter where you are.
+* Seamless Syncing: Sync your plugin settings across devices and platforms to keep everything consistent, no matter where you are.
 
-Fun for Nerds: Perfect for tech lovers, programmers, and creators—featuring challenges, coding resources, and fun interactions.
+* Fun for Nerds: Perfect for tech lovers, programmers, and creators—featuring challenges, coding resources, and fun interactions.
