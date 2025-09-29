@@ -4,7 +4,7 @@ SalutR is a versatile Discord bot designed to assist programmers with study and 
 Additionally, it helps users store important study materials, such as notes, documentation, and snippets. SalutR also enables gamification, where users can earn rewards for solving coding challenges or contributing to moderation tasks.
 
 # Features
-> Instant Setup: Get started in no time with an intuitive installation process.
+* Instant Setup: Get started in no time with an intuitive installation process.
 
 Massive Plugin Library: Over 100 plugins designed to enhance server management, support programming, and encourage learning.
 
