@@ -8,11 +8,11 @@ Additionally, it helps users store important study materials, such as notes, doc
 
 * Massive Library: Designed to enhance support programming, and encourage learning.
 
-* Minimal Resource Use: Despite offering so much, SalutR won’t slow down your server or client.
+* Minimal Resource Use: SalutR won’t slow down your server or client.
 
-* Privacy First: Say goodbye to tracking—SalutR ensures your activity stays private by blocking Discord's analytics and crash reports.
+* Privacy First: SalutR ensures your activity stays private by blocking Discord's analytics and crash reports.
 
-* Rapid Updates: Any broken features or issues are fixed quickly, with regular updates that keep everything running smoothly.
+* Rapid Updates: Any broken features or issues are fixed quickly, with regular updates.
 
 * Seamless Syncing: Sync your plugin settings across devices and platforms to keep everything consistent, no matter where you are.
 
